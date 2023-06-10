@@ -1,6 +1,7 @@
 # Grupal_Work - IMPORTANTE!!
 Resolución de ejercicios en Java - Trabajo grupal
 * Descargue el archivo .zip
+* Descomprimir el archivo
 * Mueva la carpeta al src de java
 * Abra el VScode eh ingrese al archivo Main.java
 * Abrir una terminal con "ctrl + ñ" y dirigirse a la ruta donde esta el archivo Main.java
